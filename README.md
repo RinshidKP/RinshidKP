@@ -1,48 +1,69 @@
-- 👋 Hi, I’m @RinshidKP
-- 👀 I’m interested in microservices, backend development, and cloud technologies.
-- 🌱 I’m currently learning Next.js for app routing, JWT authentication with Passport.js, and configuring MongoDB with Mongoose.
-- 💞️ I’m looking to collaborate on backend projects, especially those involving Node.js, Express, and FastAPI.
-- 📫 How to reach me: You can email me at [your email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/rinshid-polur/).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new tech tools and frameworks, and I'm an avid problem solver who enjoys debugging!
+# Hey, I'm Rinshid 👋
 
-For more info, check out my [LinkedIn profile](https://www.linkedin.com/in/rinshid-polur/).
+**Rinshid K P** · Software Engineer · Kerala, India 🇮🇳
+
+I'm a software engineer who enjoys building things, figuring out how they work, and occasionally breaking them just to understand them better.
+
+Most of my work revolves around **backend development, browser automation, APIs, and infrastructure**. I enjoy solving complicated problems, experimenting with new technologies, and turning ideas into working systems.
+
+Outside of code, you'll probably find me riding my bike, exploring somewhere new, listening to music, watching movies, or hunting for good food. 🏍️
+
+🌐 **My little corner of the internet:** [rinshid.dev](https://rinshid.dev/)
 
 ---
 
-### About Me
+### 🛠️ What I Work With
 
-I am a passionate MERN Stack Developer with a knack for crafting innovative web solutions. My expertise includes HTML, CSS, JavaScript, React, Node.js, and MongoDB. I am enthusiastic about leveraging these skills to develop impactful projects. Currently, I am a Junior Software Engineer at Cloudstack.ai and have previously been a student at Brototype.
+**Languages**
 
-### Top Skills
+TypeScript · JavaScript · Python
 
-- MERN Stack
-- Tailwind CSS
-- MongoDB
+**Backend & APIs**
 
-### Languages and Tools
+Node.js · NestJS · Express.js · FastAPI · REST APIs · WebSockets
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+**Databases & Messaging**
 
-### Experience
+MongoDB · Redis · RabbitMQ · BullMQ
 
-- **Junior Software Engineer** at Cloudstack.ai (June 2024 - Present)
-- **Student** at Brototype (March 2023 - June 2024)
+**Automation & Browsers**
 
-### Education
+Puppeteer · Playwright · Chrome DevTools Protocol
 
-- Brototype (March 2023)
+**Infrastructure & Tools**
 
-For more detailed information, visit my [LinkedIn profile](https://www.linkedin.com/in/rinshid-polur/).
+Docker · AWS · Linux · NGINX · Git · GitHub
+
+---
+
+### 🚀 What I'm Into
+
+- ⚙️ Building scalable backend systems and reliable APIs
+- 🤖 Exploring browser automation and intelligent tools
+- 🧩 Working with distributed systems, queues, and real-time communication
+- 🧪 Experimenting with new technologies and side projects
+- 📚 Learning something new whenever curiosity strikes
+
+---
+
+### 🌱 A Little More About Me
+
+I currently work as a **Software Engineer at CloudStack AI**, where I focus on backend engineering and automation.
+
+I started my development journey with web technologies and the MERN stack, but over time found myself increasingly drawn toward the systems running behind the scenes.
+
+I like understanding how software works at a deeper level, whether it's an API, a browser, a server, or something entirely unfamiliar.
+
+And while programming is a big part of my life, it isn't my whole personality. There's always another road to ride, a place to explore, or something interesting to discover.
+
+---
+
+### 🔗 Find Me Around the Internet
+
+- 🌍 **Personal website:** [rinshid.dev](https://rinshid.dev/)
+- 💼 **LinkedIn:** [Rinshid K P](https://www.linkedin.com/in/rinshid-polur/)
+- 💻 **GitHub:** [@RinshidKP](https://github.com/RinshidKP)
+
+---
+
+*Just a curious human, building things and enjoying the ride.* 🏍️
